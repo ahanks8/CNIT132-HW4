@@ -1,14 +1,14 @@
 # CNIT132-HW4
 <head>
   <meta charset="UTF-8">
-  <meta name="University of Gifted Individual" content="School Information">
+  <meta name="Gateway University" content="School Information">
   <meta name="School, University, UGI" content="admissions services">
-  <meta name="author" content="Jordan Hanks">
+  <meta name="author" content="Alejandra Hanks">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <style>
 body {
-background-color: lightblue;
+background-color: rgb(238,237,239);
 background-image: url(https://user-images.githubusercontent.com/98415116/158928995-0e343062-e8f1-42b5-883f-a5569d47f2a7.png)
 , url(https://user-images.githubusercontent.com/98415116/158924241-0a50f7b1-5c72-4250-9e29-1d2a21de9042.jpg)
 ;
