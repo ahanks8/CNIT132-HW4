@@ -35,7 +35,7 @@ width: 150px;
   <h1><div style="text-align:center; color:darkblue; font size:100px;">Gateway School of Enlightenment </div></h1>
   <br>
   <br>
-<p><i>At the University of Gifted Individual (UGI), we continue to excel in accepting all students of every aspect of life that want to grow in their education that harness a special gift. In order for our university to provide the best possible education and experince for our students, we have a staff of very qualified instructors that will lead students through a well balanced curriculum. We will continue to create an environment and culture that is diverse, inclusive, and structured."</i></p>
+<p><i>Our curriculum is out of the ordinary, our focus is on SELF - how to deeply know and love yourself so that you have the confidence and self-belief to create a life and relationships that feel purposeful, fulfilling and fun."</i></p>
   <br>
  <figure>
    <img src="https://user-images.githubusercontent.com/98415116/158931766-a0657cb9-2597-496b-a16f-295edc7f8165.png" alt="old boat cartoon image">
