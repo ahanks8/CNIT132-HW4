@@ -9,7 +9,7 @@
 <style>
 body {
 background-color: rgb(238,237,239);
-background-image: url(https://cdn.quotesgram.com/img/42/38/1851039739-MME-Reach-for-the-Stars.jpg);opacity: 0.1;
+background-image: url(https://cdn.quotesgram.com/img/42/38/1851039739-MME-Reach-for-the-Stars.jpg);opacity: 1.0;
   
 , url(https://user-images.githubusercontent.com/98415116/158924241-0a50f7b1-5c72-4250-9e29-1d2a21de9042.jpg)
 ;
