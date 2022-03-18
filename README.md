@@ -32,7 +32,7 @@ color:red;
 width: 150px;
 }
 </style>
-  <h1><div style="text-align:center; color:darkblue; font size:100px;">Gateway School of Enlightenment </div></h1>
+  <h1><div style="background-color: rgb(238,237,239);text-align:center; color:darkblue; font size:100px;">Gateway School of Enlightenment </div></h1>
   <br>
   <br>
 <p><i>Our curriculum is out of the ordinary, our focus is on SELF - how to deeply know and love yourself so that you have the confidence and self-belief to create a life and relationships that feel purposeful, fulfilling and fun."</i></p>
