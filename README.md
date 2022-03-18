@@ -1,8 +1,8 @@
 # CNIT132-HW4
 <head>
   <meta charset="UTF-8">
-  <meta name="Gateway University" content="School Information">
-  <meta name="School, University, Gateway University" content="admissions services">
+  <meta name="Gateway School of Enlightenment " content="School Information">
+  <meta name="School, University, Gateway School of Enlightenment" content="admissions services">
   <meta name="author" content="Alejandra Hanks">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
@@ -32,7 +32,7 @@ color:red;
 width: 150px;
 }
 </style>
-  <h1><div style="text-align:center; color:darkblue; font size:100px;">University of Gifted Individual (UGI)</div></h1>
+  <h1><div style="text-align:center; color:darkblue; font size:100px;">Gateway School of Enlightenment </div></h1>
   <br>
   <br>
 <p><i>At the University of Gifted Individual (UGI), we continue to excel in accepting all students of every aspect of life that want to grow in their education that harness a special gift. In order for our university to provide the best possible education and experince for our students, we have a staff of very qualified instructors that will lead students through a well balanced curriculum. We will continue to create an environment and culture that is diverse, inclusive, and structured."</i></p>
