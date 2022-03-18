@@ -2,7 +2,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="Gateway University" content="School Information">
-  <meta name="School, University, UGI" content="admissions services">
+  <meta name="School, University, Gatewa University" content="admissions services">
   <meta name="author" content="Alejandra Hanks">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
